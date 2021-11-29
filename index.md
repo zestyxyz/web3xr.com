@@ -1,5 +1,3 @@
-## Web3XR
-
 Web3XR is a community of people committed towards building a more decentralized, open and interoperable metaverse. We believe that the metaverse will manifest itself at the intersection of two technologies that are hurling into existence and soon about to change the way people interact with the Internet and with each other.
 
 We use the term web3 to describe a paradigm shift occurring right now in technology usage, where distributed ledgers and blockchains enable decentralized ownership of digital goods and identities. Bitcoin normalized the idea that something only accessible on the web and completely intangible could have value, after which Ethereum made valuable Internet things programmable through smart contracts.
