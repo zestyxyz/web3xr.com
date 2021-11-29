@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Web3XR
 
-You can use the [editor on GitHub](https://github.com/zestymarket/web3xr.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Web3XR is a community of people committed towards building a more decentralized, open and interoperable metaverse. We believe that the metaverse will manifest itself at the intersection of two technologies that are hurling into existence and soon about to change the way people interact with the Internet and with each other.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We use the term web3 to describe a paradigm shift occurring right now in technology usage, where distributed ledgers and blockchains enable decentralized ownership of digital goods and identities. Bitcoin normalized the idea that something only accessible on the web and completely intangible could have value, after which Ethereum made valuable Internet things programmable through smart contracts.
 
-### Markdown
+What NFTs have enabled is a new form of digital commerce, where unlike physical goods, delivery of the digital good can complete in the speed of the blockchain’s confirmation time. This can range from 400 ms to 15 minutes. The ability to share your purchase just by sharing your wallet address or ENS domain is a web3-native way of doing social commerce. We believe new merchants and entrepreneurs will quickly come to occupy this niche, and their storefronts will be in the metaverse.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zestymarket/web3xr.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+XR describes a set of technologies that enable people to be able to feel a sense of presence in cyberspace that is unlike any other. At first, the mainstream adoption of XR centred around gaming, but the future applications expand far beyond. The ability to virtually “hold” digital goods inside an immersive environment will make it easier for users to be able to believe that they truly own the good. Being able to walk around within a virtual world, navigate to a set of coordinates, browse through virtual products, and discuss important decisions with others in a spatial setting will have positive effects on relationship-building and associative memory.
